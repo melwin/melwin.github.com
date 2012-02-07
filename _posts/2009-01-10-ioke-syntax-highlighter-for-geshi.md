@@ -1,6 +1,6 @@
 --- 
 wordpress_id: "56"
-layout: blog_post
+layout: post
 title: Ioke Syntax Highlighter for GeSHi
 wordpress_url: http://martin.elwin.com/blog/?p=56
 ---

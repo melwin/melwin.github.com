@@ -1,6 +1,6 @@
 --- 
 wordpress_id: "28"
-layout: blog_post
+layout: post
 title: Caching Filter Queries with Coherence
 wordpress_url: http://martin.elwin.com/blog/?p=28
 ---

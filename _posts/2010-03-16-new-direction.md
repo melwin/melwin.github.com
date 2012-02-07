@@ -1,6 +1,6 @@
 --- 
 wordpress_id: "177"
-layout: blog_post
+layout: post
 title: New Direction?
 wordpress_url: http://martin.elwin.com/blog/?p=177
 ---

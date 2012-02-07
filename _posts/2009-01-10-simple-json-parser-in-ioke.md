@@ -1,6 +1,6 @@
 --- 
 wordpress_id: "39"
-layout: blog_post
+layout: post
 title: Simple JSON Parser in Ioke
 wordpress_url: http://martin.elwin.com/blog/?p=39
 ---

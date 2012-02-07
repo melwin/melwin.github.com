@@ -1,6 +1,6 @@
 --- 
 wordpress_id: "132"
-layout: blog_post
+layout: post
 title: Type Checking in Ioke Java Methods
 wordpress_url: http://martin.elwin.com/blog/?p=132
 ---

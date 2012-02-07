@@ -1,6 +1,6 @@
 --- 
 wordpress_id: "26"
-layout: blog_post
+layout: post
 title: Clustering Scala Actors with Oracle Coherence for Fun and Profit
 wordpress_url: http://martin.elwin.com/blog/?p=26
 ---

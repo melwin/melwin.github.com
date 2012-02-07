@@ -1,6 +1,6 @@
 --- 
 wordpress_id: "148"
-layout: blog_post
+layout: post
 title: "The Hitchhiker's Guide to an Ioke Dev Env From Source (part 5: Ioke and the REPL)"
 wordpress_url: http://martin.elwin.com/blog/?p=148
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: "88"
-layout: blog_post
+layout: post
 title: "The Hitchhiker's Guide to an Ioke Dev Env From Source (part 2: Emacs)"
 wordpress_url: http://martin.elwin.com/blog/?p=88
 ---

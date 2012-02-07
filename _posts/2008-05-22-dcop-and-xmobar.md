@@ -1,6 +1,6 @@
 --- 
 wordpress_id: "22"
-layout: blog_post
+layout: post
 title: DCOP and xmobar
 wordpress_url: http://martin.elwin.com/blog/?p=22
 ---

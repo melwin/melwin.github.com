@@ -1,5 +1,6 @@
 ---
 title: "Migrated To Octopress"
+layout: post
 ---
 Like [all][] [cool][] [kids][] blogging nowadays, as part of the attempt to rejuvinate the blog, I've switched to [Jekyll][]. Or, rather, the extended fork [Octopress][].
 

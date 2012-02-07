@@ -1,6 +1,6 @@
 --- 
 wordpress_id: "21"
-layout: blog_post
+layout: post
 title: Scala XML and Java DOM
 wordpress_url: http://martin.elwin.com/blog/?p=21
 ---

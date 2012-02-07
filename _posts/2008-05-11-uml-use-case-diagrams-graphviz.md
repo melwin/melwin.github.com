@@ -1,6 +1,6 @@
 --- 
 wordpress_id: "8"
-layout: blog_post
+layout: post
 title: UML Use Case Diagrams &amp; Graphviz
 wordpress_url: http://martin.elwin.com/blog/?p=8
 ---

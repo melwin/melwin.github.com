@@ -1,6 +1,6 @@
 --- 
 wordpress_id: "125"
-layout: blog_post
+layout: post
 title: "The Hitchhiker's Guide to an Ioke Dev Env From Source (part 4: Java+Ant)"
 wordpress_url: http://martin.elwin.com/blog/?p=125
 ---

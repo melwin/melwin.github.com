@@ -1,6 +1,6 @@
 --- 
 wordpress_id: "27"
-layout: blog_post
+layout: post
 title: Scala Syntax Highlighting for WP
 wordpress_url: http://martin.elwin.com/blog/?p=27
 ---

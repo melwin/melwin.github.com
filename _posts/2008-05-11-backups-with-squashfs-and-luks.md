@@ -1,6 +1,6 @@
 --- 
 wordpress_id: "20"
-layout: blog_post
+layout: post
 title: Compressed and Encrypted Backup with SquashFS and LUKS
 wordpress_url: http://martin.elwin.com/blog/?p=20
 ---
