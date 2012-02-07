@@ -1,7 +1,7 @@
 --- 
 wordpress_id: "8"
 layout: blog_post
-title: UML Use Case Diagrams & Graphviz
+title: UML Use Case Diagrams &amp; Graphviz
 wordpress_url: http://martin.elwin.com/blog/?p=8
 ---
 First post!
